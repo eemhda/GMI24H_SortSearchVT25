@@ -24,6 +24,14 @@ namespace AlgorithmLib
         }
 
         /// <summary>
+        /// Sorterar listan med Merge Sort-algoritmen.
+        /// </summary>
+        /// <param name="collection">Listan som ska sorteras.</param>
+        public void MergeSort(IList<T> collection)
+        {
+            throw new NotImplementedException();
+        }
+        /// <summary>
         /// Sorterar listan med Heap Sort-algoritmen.
         /// </summary>
         /// <param name="collection">Listan som ska sorteras.</param>
