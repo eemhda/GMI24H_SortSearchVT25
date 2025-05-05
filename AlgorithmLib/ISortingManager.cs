@@ -32,13 +32,10 @@ namespace AlgorithmLib
         void SelectionSort(IList<T> collection);
 
         /// <summary>
-        /// Sorterar listan med Merge Sort-algoritmen.
+        /// Sorterar listan med hjälp av Merge Sort-algoritmen.
         /// </summary>
         /// <param name="collection">Listan som ska sorteras.</param>
-        public void MergeSort(IList<T> collection)
-        {
-            throw new NotImplementedException();
-        }
+        void MergeSort(IList<T> collection);
 
         /// <summary>
         /// Sorterar listan med hjälp av Heap Sort.
