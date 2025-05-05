@@ -41,7 +41,7 @@ namespace GMI24H_VT25_SortSearch_Labb_
             //Det finns ingen implementation av bubblesort i SortingManager just nu. Det här metodanropet är
             //enbart en referens för att visa hur ni kan anropa en metod och skicka er sampledata som ni hämtar 
             //med LogParsern från textfilen. 
-            //sorter.BubbleSort(ipAddresses); // <-- implement the methods from ISorter in the Sorter class in order to use them...
+            //sorter.BubbleSort(ipAddresses); // <-- implementerar metod från SortingManager-classen som jag vill använda...
 
             //För att
             //vi ska kunna mäta hur lång tid det tar att köra algoritmen kan vi använda
